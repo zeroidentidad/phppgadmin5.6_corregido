@@ -1,0 +1,16 @@
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; Decorator has a deprecated constructor in /opt/lappstack7127/apps/phppgadmin/htdocs/libraries/decorator.inc.php on line 92
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; FieldDecorator has a deprecated constructor in /opt/lappstack7127/apps/phppgadmin/htdocs/libraries/decorator.inc.php on line 103
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; ArrayMergeDecorator has a deprecated constructor in /opt/lappstack7127/apps/phppgadmin/htdocs/libraries/decorator.inc.php on line 115
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; ConcatDecorator has a deprecated constructor in /opt/lappstack7127/apps/phppgadmin/htdocs/libraries/decorator.inc.php on line 130
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; CallbackDecorator has a deprecated constructor in /opt/lappstack7127/apps/phppgadmin/htdocs/libraries/decorator.inc.php on line 145
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; IfEmptyDecorator has a deprecated constructor in /opt/lappstack7127/apps/phppgadmin/htdocs/libraries/decorator.inc.php on line 157
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; UrlDecorator has a deprecated constructor in /opt/lappstack7127/apps/phppgadmin/htdocs/libraries/decorator.inc.php on line 174
+
+Deprecated: Methods with the same name as their class will not be constructors in a future version of PHP; replaceDecorator has a deprecated constructor in /opt/lappstack7127/apps/phppgadmin/htdocs/libraries/decorator.inc.php on line 200
+Configuration error: Copy conf/config.inc.php-dist to conf/config.inc.php and edit appropriately.
